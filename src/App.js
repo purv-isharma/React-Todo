@@ -6,7 +6,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h1>Todo Page</h1>
+        <h1>The Todo Page</h1>
         <Todo />
       </div>
     );
